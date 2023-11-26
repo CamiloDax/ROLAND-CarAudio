@@ -11,4 +11,6 @@ _**Este repositorio es en el cual se subiran diferentes archivos asociados al de
 
 [CRONOGRAMA DE ACTIVIDADES](CRONOGRAMA_DE_ACTIVIDADES_RCA.pdf)
 
+[HISTORIAS DE USUARIO](HISTORIAS_DE_USUARIO_RCA.pdf)
+
 
