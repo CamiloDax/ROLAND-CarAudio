@@ -3,6 +3,6 @@ Este repositorio es en el cual se subiran diferentes archivos asociados al desar
 
 :file_folder: REPOSITORIO PROYECTO ROLAND CarAuio
 .- :paperclip: _ARCHIVOS_:
-    + [ARBOL_DEL_PROBLEMA](
-    +REPOSITORIO
+[ARBOL_DEL_PROBLEMA](ARBOL_DEL_PROBLEMA_RCA.pdf)
+
 
