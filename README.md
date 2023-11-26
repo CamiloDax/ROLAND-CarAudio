@@ -5,10 +5,10 @@ _**Este repositorio es en el cual se subiran diferentes archivos asociados al de
 
 :paperclip: **ARCHIVOS**:
 
-[ARBOL_DEL_PROBLEMA](ARBOL_DEL_PROBLEMA_RCA.pdf)
+[ARBOL DEL PROBLEMA](ARBOL_DEL_PROBLEMA_RCA.pdf)
 
 [PRESUPUESTO](PRESUPUESTO_RCA.pdf)
 
-[CRONOGRAMA DE ACTIVIDADES]()
+[CRONOGRAMA DE ACTIVIDADES](CRONOGRAMA_DE_ACTIVIDADES_RCA.pdf)
 
 
