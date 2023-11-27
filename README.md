@@ -15,4 +15,4 @@ _**Este repositorio es en el cual se subiran diferentes archivos asociados al de
 
 [WIREFRAMES Y MOCKUPS](WIREFRAMES_Y_MOCUKUPS_RCA.pdf)
 
-
+[REQUERIMIENTOS FUNCIONALES Y NO FUNCIONALES]()
