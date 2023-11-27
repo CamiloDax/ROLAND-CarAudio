@@ -13,4 +13,6 @@ _**Este repositorio es en el cual se subiran diferentes archivos asociados al de
 
 [HISTORIAS DE USUARIO](HISTORIAS_DE_USUARIO_RCA.pdf)
 
+[WIREFRAMES Y MOCKUPS](WIREFRAMES_Y_MOCUKUPS_RCA.pdf)
+
 
