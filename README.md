@@ -5,8 +5,6 @@ _**Este repositorio es en el cual se subiran diferentes archivos asociados al de
 
 :paperclip: **ARCHIVOS**:
 
-▶️ **GEI**
-
 [ARBOL DEL PROBLEMA](ARBOL_DEL_PROBLEMA_RCA.pdf)
 
 [PRESUPUESTO](PRESUPUESTO_RCA.pdf)
