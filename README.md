@@ -20,3 +20,7 @@ _**Este repositorio es en el cual se subiran diferentes archivos asociados al de
 🖇️ [ARBOL DE LA NAVEGACION](ARBOL_DE_LA_NAVEGACION_RCA.pdf)
 
 🖇️ [PREGUNTAS SOBRE LA NAVEGACION CON SUS DIFERENTES ROLES](PREGUNTAS_DE_LA_NAVEGACION_ROLES_RCA.pdf)
+
+🖇️ [MANUAL DEL PROGRAMADOR]
+
+🖇️ [MANUAL DE USUARIO]
